@@ -4,7 +4,7 @@ public class GitTest {
 
 	
 	public static void main(String[] args) {
-		System.out.println("For Git");
+	int a=10;
 		System.out.println("For Second Commit");
 	}
 }
